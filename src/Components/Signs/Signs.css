@@ -1,0 +1,21 @@
+main {
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+.sign {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+img {
+  height: 150px;
+  width: 200px;
+}
+span {
+  color: rgb(0, 183, 255);
+  text-transform: capitalize;
+}
+/* .signs background-img {
+  background-repeat: cover;
+} */
