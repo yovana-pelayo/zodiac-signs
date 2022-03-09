@@ -1,4 +1,5 @@
 import React from 'react';
+import './Signs.css';
 // import { zodiac } from '../data';
 export default function Sign(props) {
   return (
