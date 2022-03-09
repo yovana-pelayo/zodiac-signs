@@ -2,6 +2,16 @@ main {
   background-color: aqua;
 }
 .sign {
-  height: 50px;
-  width: 50px;
+  display: flex;
+  flex-direction: column;
+}
+img {
+  height: 150px;
+  width: 200px;
+}
+span {
+  color: rgb(255, 0, 179);
+}
+.signs background-img {
+  background-repeat: cover;
 }
