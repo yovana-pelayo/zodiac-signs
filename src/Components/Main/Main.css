@@ -1,6 +1,12 @@
-background-img {
+/* background-img {
   background-repeat: cover;
-}
+} */
 .App-header {
-  background-color: #61dafb;
+  background-color: #092e09;
+  color: rgb(0, 183, 255);
+  text-size-adjust: bolder;
+}
+.App-footer {
+  background: #092e09;
+  color: rgb(244, 250, 250);
 }
