@@ -1,4 +1,4 @@
-export const zodiac = [
+export const signs = [
   {
     name: 'aquarius',
     dates: 'Jan 21 - Feb 19',
