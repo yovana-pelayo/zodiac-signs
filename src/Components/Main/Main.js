@@ -2,7 +2,7 @@ import React from 'react';
 import { signs } from '../../data';
 import Sign from '../Signs/Sign';
 import background from '../../background.webp';
-// import '../Main.css';
+import './Main.css';
 
 export default function Main() {
   return (

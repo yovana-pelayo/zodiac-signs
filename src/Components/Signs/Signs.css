@@ -1,9 +1,10 @@
 main {
-  background-color: aqua;
+  /* display: flex;
+  flex-wrap: wrap; */
 }
 .sign {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 img {
   height: 150px;
